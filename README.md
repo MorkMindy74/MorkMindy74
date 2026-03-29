@@ -8,14 +8,14 @@
 
 ### ⚖️ Who I Am
 
-I'm a **lawyer** with an uncontainable passion for mathematics and artificial intelligence. I don't have a CS or engineering background — everything you'll find here is the result of curiosity, self-teaching, and a lot of **vibe coding**: letting enthusiasm lead the way and building things with AI, learning as I go.
+I'm a **lawyer** with an uncontainable passion for mathematics and artificial intelligence. I don't have a CS or engineering background: everything you'll find here is the result of curiosity, self-teaching, and a lot of **vibe coding**: letting enthusiasm lead the way and building things with AI, learning as I go.
 
-I use tools like Claude and other AI models to explore worlds that would otherwise be out of reach for me: algorithms, predictive models, autonomous agents. I wouldn't call myself a developer — I'd call myself an **enthusiast** who found in code a new way to do applied math.
+I use tools like Claude and other AI models to explore worlds that would otherwise be out of reach for me: algorithms, predictive models, autonomous agents. I wouldn't call myself a developer, I'd call myself an **enthusiast** who found in code a new way to do applied math.
 
 - ⚖️ Lawyer | Studio RRP — [studiorrp.it](https://www.studiorrp.it)
 - 🧮 Passionate about math, statistics, and quantitative models
 - 🤖 Fascinated by AI: LLMs, agents, evolutionary systems
-- 🎸 Vibe coder — I build to learn, not to ship
+- 🎸 Vibe coder: I build to learn, not to ship
 - 📍 Italy
 
 ---
